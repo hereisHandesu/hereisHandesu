@@ -10,6 +10,7 @@
 
 - C++ back-end & OS underlying development
 - Robot Hardware Design & Robot Control & Embedded System
+- Computer Vision Application
 
 :moon: On the List:
 
