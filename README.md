@@ -2,8 +2,6 @@
 
 :ghost: Here is a man who wants to become a reliable GEEKER & TECH-OTAKU
 
-真的是太想要成为一个靠谱极客&科技宅了口牙！！
-
 テクノロジーオタクにマジなりたい！！！
 
 :book:Currently learning:
