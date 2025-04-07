@@ -1,18 +1,18 @@
 
 
-:ghost: Here is a man who wants to become a reliable GEEKER & TECH-OTAKU
+:ghost: Want to become a reliable GEEKER & TECH-OTAKU
 
 テクノロジーオタクにマジなりたい！！！
 
 :book:Currently learning:
 
 - C++ back-end & OS underlying development
-- Robot Hardware Design & Robot Control & Embedded System
+- Robot Hardware Design & Robot Planning&Control & Embedded System
 - Computer Vision Application
 
 :moon: On the List:
 
-- LLM related
+- Deep Learning
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hereisHandesu&show_icons=true&theme=gotham" alt="hereisHandesu" />
 
