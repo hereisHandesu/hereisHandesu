@@ -1,8 +1,6 @@
 
 
-:ghost: Want to become a reliable GEEKER & TECH-OTAKU
-
-テクノロジーオタクにマジなりたい！！！
+:ghost: 没啥好看的，自己写着玩
 
 :book:Currently learning:
 
