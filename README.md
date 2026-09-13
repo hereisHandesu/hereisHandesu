@@ -1,5 +1,5 @@
 
-🤖 Hi there, Han dayo!
+🤖 Hi there, Ishan dayo!
 
 🚀 Enthusiastic about: 
 - Robotics, Embedded System & Hardware
